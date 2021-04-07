@@ -1,5 +1,0 @@
-Los Datos de la Conexion a la Base De Datos Esta en la clase Program 
-EL programa esta divido en dos carpetas Datos(Parte Logica) y Diseño (Parte Visual)
-
-
-Espero que tenga un bonito dia :)
