@@ -1,0 +1,20 @@
+C:\Users\ACER\source\repos\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Sistema de Facturacion\obj\Debug\Sistema_de_Facturacion.Properties.Resources.resources
+C:\Users\ACER\source\repos\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Sistema de Facturacion\bin\Debug\Sistema de Facturacion.exe.config
+C:\Users\ACER\source\repos\Sistema de Facturacion\bin\Debug\Sistema de Facturacion.exe
+C:\Users\ACER\source\repos\Sistema de Facturacion\bin\Debug\Sistema de Facturacion.pdb
+C:\Users\ACER\source\repos\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.exe
+C:\Users\ACER\source\repos\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.pdb
+C:\Users\ACER\source\repos\Sistema De Facturacion\obj\Debug\Sistema_de_Facturacion.Diseños.Mantenimiento_Productos.resources
+C:\Users\ACER\source\repos\Sistema De Facturacion\obj\Debug\Sistema_de_Facturacion.Diseños.Mantemiento_Proveedores.resources
+C:\Users\ACER\source\repos\Sistema De Facturacion\obj\Debug\Sistema_de_Facturacion.Diseños.Mantemiento_Clientes.resources
+C:\Users\ACER\source\repos\Sistema De Facturacion\obj\Debug\Sistema_de_Facturacion.Diseños.Proceso_Mercancia.resources
+C:\Users\ACER\source\repos\Sistema De Facturacion\obj\Debug\Sistema_de_Facturacion.Diseños.Proceso_Facturacion.resources
+C:\Users\ACER\source\repos\Sistema De Facturacion\obj\Debug\Sistema_de_Facturacion.Diseños.Consulta_Clientes.resources
+C:\Users\ACER\source\repos\Sistema De Facturacion\obj\Debug\Sistema_de_Facturacion.Diseños.Consulta_Productos.resources
+C:\Users\ACER\source\repos\Sistema De Facturacion\obj\Debug\Sistema_de_Facturacion.Diseños.Consultar_Proveedores.resources
+C:\Users\ACER\source\repos\Sistema De Facturacion\obj\Debug\Sistema_de_Facturacion.Diseños.Consulta_Entradas.resources
+C:\Users\ACER\source\repos\Sistema De Facturacion\obj\Debug\Sistema_de_Facturacion.Diseños.Consulta_Facturaciones.resources
+C:\Users\ACER\source\repos\Sistema De Facturacion\obj\Debug\Sistema_de_Facturacion.Diseños.Inicio.resources
+C:\Users\ACER\source\repos\Sistema de Facturacion\obj\Debug\Sistema_de_Facturacion.Diseños.Mostrar_Inventario.resources
